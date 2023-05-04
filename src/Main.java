@@ -23,7 +23,6 @@ public class Main {
         System.out.println(dog);
         System.out.println(cat);
         System.out.println(paper);
-
         /* task4-5 */
         var friend = 19;
         System.out.println(friend);
@@ -39,7 +38,6 @@ public class Main {
         System.out.println(frog);
         frog = frog + 4;
         System.out.println(frog);
-
         /* task6-8 */
         var firstBoxer = 78.2;
         var secondBoxer = 82.7;
